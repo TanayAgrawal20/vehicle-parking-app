@@ -1,2 +1,2 @@
 # vehicle-parking-app
-a responsive web app for vehicle-parking
+a responsive web app for vehicle-parking.
